@@ -1,0 +1,83 @@
+body{
+    background: url(photo1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+ footer{
+     font-family: sans-serif;
+     text-align: center;
+     color: rgba(10, 10, 68, 0.911);
+     
+ }
+ h1{
+     font-weight: 400;
+     font-size: 45px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: rgba(10, 10, 68, 0.911);
+     display: flex;
+     justify-content: center;
+     text-align: center;
+
+
+ }
+ h2 {
+     font-weight: 200;
+     font-size: 30px;
+     color: rgba(21, 123, 141, 0.808);
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+
+
+ }
+h3{
+    font-weight: 200;
+    font-size: 20px;
+    color: rgba(10, 10, 68, 0.911);
+    justify-content: center;
+    
+}
+
+ a{text-decoration: none;
+    
+}
+ 
+
+ p{
+     font-weight:200 ;
+     text-align: center;
+     color: rgba(10, 10, 68, 0.911);
+    
+
+ }
+ .container{
+     display: flex;
+     height:100%;
+     width: 100%;
+     flex-wrap: wrap;
+     justify-content: center;
+    
+
+   
+
+
+ }
+ .item{
+     width: 300px;
+     height:320px;
+     background-color: rgb(80, 135, 156);
+     margin:15px;
+     padding:15px;
+     justify-content: center;
+     color: rgba(10, 10, 68, 0.911);
+     border-radius: 20%;
+ }
+ footer a{
+     text-decoration: none;
+     color: rgba(10, 10, 68, 0.911);
+ }
